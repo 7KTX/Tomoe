@@ -1,9 +1,9 @@
 [submodule "dotfiles"]
 	path = dotfiles
-	url = git@github.com-y0usaf:y0usaf/dotfiles
+	url = https://github.com/y0usaf/dotfiles
 [submodule "y0usaf.github.com"]
 	path = y0usaf.github.com
-	url = git@github.com-y0usaf:y0usaf/y0usaf.github.com
+	url = https://github.com/y0usaf/y0usaf.github.com
 [submodule "PyCompressCloud"]
 	path = PyCompressCloud
 	url = https://github.com/y0usaf/PyCompressCloud
