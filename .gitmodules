@@ -4,3 +4,15 @@
 [submodule "y0usaf.github.com"]
 	path = y0usaf.github.com
 	url = git@github.com-y0usaf:y0usaf/y0usaf.github.com
+[submodule "PyCompressCloud"]
+	path = PyCompressCloud
+	url = https://github.com/y0usaf/PyCompressCloud
+[submodule "PassMaker"]
+	path = PassMaker
+	url = https://github.com/y0usaf/PassMaker
+[submodule "API_Filemaster"]
+	path = API_Filemaster
+	url = https://github.com/y0usaf/API_Filemaster
+[submodule "Fetch-n-Parse"]
+	path = Fetch-n-Parse
+	url = https://github.com/y0usaf/Fetch-n-Parse
